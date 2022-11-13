@@ -1,8 +1,4 @@
-// Configuration
-const client_secret = 'f1X8Q~A7z4YyWXLCtE4TVOHVsXkeCHAyBqK4hbbA'
-const client_id = '310a6008-6f5b-477b-84b6-c9b69160f77f'
-const redirect_uri = 'https://redirect-qrt5.onrender.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1041399087536275496/dHFJbj5AqiNp6E6Q9lY2C0gF5eM4hijg2Y1ju1g9jfiG6-CT4cdI5lZBtOEMxBcKUBIl'
+
 // Config end
 const axios = require('axios')
 const express = require('express')
